@@ -31,7 +31,7 @@ cd good-night
 
 ### 3. Upload to Github
 First, you have to create a Github account. Once you've got your Github account, create a new repository (name it whatever your want). Then, upload all the content into your newly created repository.
-Refer to this link to learn how to upload files: <a href="https://docs.github.com/en/repositories" target="_blank">https://docs.github.com/en/repositories</a>
+Refer to this link to learn how to upload files: <a href="https://docs.github.com/en/repositories" target="__blank">https://docs.github.com/en/repositories</a>
 
 ### 4. Deploy with Github Actions
 Go to <b>Settings</b>, head for <b>Pages</b>.
